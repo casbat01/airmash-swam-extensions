@@ -131,7 +131,7 @@
         if ( fileName in customFiles ) {
 
           // files[key] = `http://localhost:4444/themes/hit_circles/assets/${customFiles[fileName]}`; // Development
-          files[key] = `https://raw.githubusercontent.com/fabiospampinato/airmash-swam-extensions/master/themes/hit_circles/assets/${customFiles[fileName]}`; // Production
+          files[key] = `https://raw.githubusercontent.com/casbat01/airmash-swam-extensions/master/themes/hit_circles/assets/${customFiles[fileName]}`; // Production
 
         }
 
@@ -174,7 +174,7 @@
   /* REGISTER */
 
   SWAM.registerExtension ({
-    name: 'BirdMash',
+    name: 'Hit Circles Theme',
     id: 'fabiospampinato.hitCircles',
     description: 'A theme that replace every image with their actual hit circles.',
     version: '1.0.0',
