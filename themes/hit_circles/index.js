@@ -174,7 +174,7 @@
   /* REGISTER */
 
   SWAM.registerExtension ({
-    name: 'Hit Circles Theme',
+    name: 'BirdMash',
     id: 'fabiospampinato.hitCircles',
     description: 'A theme that replace every image with their actual hit circles.',
     version: '1.0.0',
